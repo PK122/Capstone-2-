@@ -1,2 +1,2 @@
-# Capstone-2-
+# Capstone2
 Housing price prediction 
